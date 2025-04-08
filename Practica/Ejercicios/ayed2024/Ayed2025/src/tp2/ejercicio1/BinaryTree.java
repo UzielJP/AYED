@@ -78,7 +78,7 @@ public class BinaryTree <T> {
 		return this.getData().toString();
 	}
 
-	public int contarHojas() 
+	public int contarHojas()
 	{
 		int cant = 0;
 		if(!this.isEmpty())
